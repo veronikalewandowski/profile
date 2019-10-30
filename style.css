@@ -44,15 +44,16 @@ a:hover {
 .card {
   background-color: white;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
-  padding: 10px;
-  margin: 20px;
-  width: 1000px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 900px;
 }
 
 
 #profile-img {
-  border-radius: 3%;
-  padding-bottom: 15px;
+  width: 500px;
 }
 
 .list-inline {
